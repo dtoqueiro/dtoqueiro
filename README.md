@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 ---
 
-![Snake animation](https://github.com/mathstylish/mathstylish/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dtoqueiro/dtoqueiro/blob/output/github-contribution-grid-snake.svg)
 </div>
